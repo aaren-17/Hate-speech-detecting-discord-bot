@@ -1,0 +1,40 @@
+2023-03-14 17:50:06,142:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2023-03-14 17:50:07,259:DEBUG:discord.client: on_ready has successfully been registered as an event
+2023-03-14 17:50:07,280:DEBUG:discord.client: on_message has successfully been registered as an event
+2023-03-14 17:50:07,322:INFO:discord.client: logging in using static token
+2023-03-14 17:50:09,556:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: dced294e0309f12cb9a5c46ea9fdd64f).
+2023-03-14 17:50:20,402:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin MichaelJordan JJ <3#1522 for hateful messages
+2023-03-14 17:50:57,685:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin MichaelJordan JJ <3#1522 for hateful messages
+2023-03-14 17:51:16,546:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 17:51:32,051:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:51:40,786:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:51:55,725:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:52:02,580:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:52:10,890:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:52:22,163:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 17:52:24,598:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 17:52:32,942:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:53:08,977:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:53:32,341:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:53:46,822:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:54:05,165:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:54:16,560:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:54:37,699:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:54:50,770:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 17:55:25,086:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin MichaelJordan JJ <3#1522 for hateful messages
+2023-03-14 17:56:00,423:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:56:09,131:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 17:57:21,013:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 17:57:49,644:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ArrOW#9400 for hateful messages
+2023-03-14 18:25:39,319:INFO:discord.gateway: Shard ID None has successfully RESUMED session dced294e0309f12cb9a5c46ea9fdd64f.
+2023-03-14 18:58:04,437:WARNING:discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+2023-03-14 18:58:06,152:INFO:discord.gateway: Shard ID None session has been invalidated.
+2023-03-14 18:58:13,898:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 55caf05015643f35a0ea341dae535994).
+2023-03-14 18:58:29,660:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 18:58:34,862:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 18:58:37,389:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 18:58:40,397:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-14 19:36:05,299:INFO:discord.gateway: Shard ID None has successfully RESUMED session 55caf05015643f35a0ea341dae535994.
+2023-03-14 20:28:50,933:WARNING:discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+2023-03-14 20:28:52,083:INFO:discord.gateway: Shard ID None session has been invalidated.
+2023-03-14 20:28:58,600:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: dbc31fa5969434669d9ebfec6bc8b073).

@@ -1,0 +1,14 @@
+2023-03-16 14:18:13,371:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2023-03-16 14:18:14,108:DEBUG:discord.client: on_ready has successfully been registered as an event
+2023-03-16 14:18:14,139:DEBUG:discord.client: on_message has successfully been registered as an event
+2023-03-16 14:18:14,171:INFO:discord.client: logging in using static token
+2023-03-16 14:18:16,178:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: b60ae193ca30cd69468bb528e9e7ec00).
+2023-03-16 14:18:39,836:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 14:18:49,487:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 14:19:11,106:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 14:19:22,546:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 14:19:41,063:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 14:20:05,469:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-16 16:03:22,281:WARNING:discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+2023-03-16 16:03:23,947:INFO:discord.gateway: Shard ID None session has been invalidated.
+2023-03-16 16:03:30,261:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 3d2d1742617f17a9a933f4ba4dc0db97).

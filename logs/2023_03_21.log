@@ -1,0 +1,21 @@
+2023-03-21 19:37:17,100:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2023-03-21 19:37:17,853:DEBUG:discord.client: on_ready has successfully been registered as an event
+2023-03-21 19:37:17,869:DEBUG:discord.client: on_message has successfully been registered as an event
+2023-03-21 19:37:17,900:INFO:discord.client: logging in using static token
+2023-03-21 19:37:21,025:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 48cc11dc8de9e2b3ecddd24f0047a48a).
+2023-03-21 19:37:37,874:ERROR:discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\aaren\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\aamini project\discord_bot\t-7000\bot.py", line 195, in on_message
+    return await channel.send(await on_hate_speech(message))
+  File "d:\aamini project\discord_bot\t-7000\bot.py", line 214, in on_hate_speech
+    await message.author.kick(reason='Hateful/profane messages')
+AttributeError: 'User' object has no attribute 'kick'
+2023-03-21 19:38:45,406:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:42:14,256:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:49:22,348:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:49:43,860:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:50:07,593:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:51:13,550:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
+2023-03-21 19:51:26,890:WARNING:discord: 403 Forbidden (error code: 50013): Missing Permissions: Bot tried to kick admin ᴀᴀʀᴏɴ ♰#3016 for hateful messages
