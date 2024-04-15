@@ -220,7 +220,7 @@ def start():
         return reply
   
     try:
-        TOKEN = "MTA4NDEwMTE4ODkxNzY1NzY1Mg.Gr5CW5.Gg3li2ti8Ovr7009m-WmQqlQIxMNEzbzsKQAmI" # token is unique
+        TOKEN = "YOUR_BOT_TOKEN_HERE"
     except FileNotFoundError:
         print('Token not found, please find your token and store it in utils/token.pickle')
     bot.run(TOKEN)
